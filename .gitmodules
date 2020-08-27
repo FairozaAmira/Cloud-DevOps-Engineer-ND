@@ -1,3 +1,6 @@
 [submodule "Operationalize-a-Machine-Learning-Microservice-API"]
 	path = Operationalize-a-Machine-Learning-Microservice-API
 	url = https://github.com/FairozaAmira/Operationalize-a-Machine-Learning-Microservice-API.git
+[submodule "cloud-devops-udacity-capstone"]
+	path = cloud-devops-udacity-capstone
+	url = https://github.com/FairozaAmira/cloud-devops-udacity-capstone.git
